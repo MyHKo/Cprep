@@ -8,4 +8,5 @@ add_executable(untitled main.cpp
         pointers/pointers.h
         pointers/pointers2.cpp
         arithmetics/arithmetics.h
-        arithmetics/arithmetics1.cpp)
+        arithmetics/arithmetics1.cpp
+        arithmetics/arithmetics2.cpp)

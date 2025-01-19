@@ -6,6 +6,7 @@
 int main() {
 
     arithmetics1();
+    arithmetics2();
 
     return 0;
 }
