@@ -6,4 +6,6 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(untitled main.cpp
         pointers/task1.cpp
         pointers/pointers.h
-        pointers/task2.cpp)
+        pointers/task2.cpp
+        arithmetics/arithmetics.h
+        arithmetics/arithmetics1.cpp)

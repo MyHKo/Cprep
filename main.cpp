@@ -1,11 +1,11 @@
 #include <iostream>
 #include "./pointers/pointers.h"
+#include "arithmetics/arithmetics.h"
 
 
 int main() {
 
-    task2();
-    task1();
+    arithmetics1();
 
     return 0;
 }
