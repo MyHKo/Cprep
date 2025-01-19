@@ -3,5 +3,6 @@
 
 void pointers1();
 void pointers2();
+void pointers3();
 
 #endif
