@@ -1,7 +1,7 @@
 #ifndef POINTERS_H
 #define POINTERS_H
 
-void task1();
-void task2();
+void pointers1();
+void pointers2();
 
 #endif
