@@ -10,4 +10,5 @@ add_executable(untitled main.cpp
         arithmetics/arithmetics.h
         arithmetics/arithmetics1.cpp
         arithmetics/arithmetics2.cpp
-        pointers/pointers3.cpp)
+        pointers/pointers3.cpp
+        arithmetics/arithmetics3.cpp)

@@ -85,6 +85,12 @@ build CMakeFiles/untitled.dir/pointers/pointers3.cpp.obj: CXX_COMPILER__untitled
   OBJECT_DIR = CMakeFiles\untitled.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled.dir\pointers
 
+build CMakeFiles/untitled.dir/arithmetics/arithmetics3.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/darkw/CLionProjects/untitled/arithmetics/arithmetics3.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\arithmetics\arithmetics3.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\arithmetics
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled
@@ -93,7 +99,7 @@ build CMakeFiles/untitled.dir/pointers/pointers3.cpp.obj: CXX_COMPILER__untitled
 #############################################
 # Link the executable untitled.exe
 
-build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/pointers/pointers1.cpp.obj CMakeFiles/untitled.dir/pointers/pointers2.cpp.obj CMakeFiles/untitled.dir/arithmetics/arithmetics1.cpp.obj CMakeFiles/untitled.dir/arithmetics/arithmetics2.cpp.obj CMakeFiles/untitled.dir/pointers/pointers3.cpp.obj
+build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/pointers/pointers1.cpp.obj CMakeFiles/untitled.dir/pointers/pointers2.cpp.obj CMakeFiles/untitled.dir/arithmetics/arithmetics1.cpp.obj CMakeFiles/untitled.dir/arithmetics/arithmetics2.cpp.obj CMakeFiles/untitled.dir/pointers/pointers3.cpp.obj CMakeFiles/untitled.dir/arithmetics/arithmetics3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled.dir
