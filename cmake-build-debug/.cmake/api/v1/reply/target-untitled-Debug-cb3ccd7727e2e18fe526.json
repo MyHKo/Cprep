@@ -57,8 +57,7 @@
 				3,
 				5,
 				6,
-				7,
-				8
+				7
 			]
 		}
 	],
@@ -100,8 +99,7 @@
 				3,
 				5,
 				6,
-				7,
-				8
+				7
 			]
 		},
 		{
@@ -147,12 +145,6 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "pointers/pointers3.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "arithmetics/arithmetics5.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{

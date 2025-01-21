@@ -47,5 +47,21 @@ void arithmetics4() {
 //The catch here is the fact that b and x are of type int, so the fractional part would be cut
 //The answer is 1
 
+void arithmetics5() {
+    int a = 4, b = 5, c = 2, d = -1, x;
+    x = (a * b < c + d--) || (a > 3 && d > -2);
+    printf("%d\n", x);
+}
+//Simple task based on the operator precedense and logical operators
+//Answer is 0
 
+void arithmetics6() {
+    int i, limit = 8;
+    for(i = 1; i < limit; i += 3) {
+        printf("%d ", i);
+        if(i % 2 == 0) break;
+    }
+}
+//Task check the understanding of a key word break
+//Answers is 1 4
 
