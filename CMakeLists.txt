@@ -9,6 +9,5 @@ add_executable(untitled main.cpp
         pointers/pointers2.cpp
         arithmetics/arithmetics.h
         pointers/pointers3.cpp
-        arithmetics/arithmetics5.cpp
         arithmetics/arithmetics_tasks.cpp
         pointers/pointers_tasks.cpp)
