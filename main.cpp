@@ -5,7 +5,7 @@
 
 int main() {
 
-    arithmetics3();
+    arithmetics4();
 
     return 0;
 }

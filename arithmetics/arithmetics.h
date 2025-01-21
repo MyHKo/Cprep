@@ -4,5 +4,6 @@
 void arithmetics1();
 void arithmetics2();
 void arithmetics3();
+void arithmetics4();
 
 #endif
