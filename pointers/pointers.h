@@ -4,5 +4,6 @@
 void pointers1();
 void pointers2();
 void pointers3();
+void pointers4();
 
 #endif

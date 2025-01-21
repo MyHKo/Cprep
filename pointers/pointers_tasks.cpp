@@ -45,3 +45,13 @@ void pointers3() {
 }
 //The task based on simple pointer arithmetics and how the ++ operator works
 //The answer is efghi
+
+void pointers4() {
+    char *ptr, text[30] = "examquestionsarefun";
+    ptr = &text[6];
+    for(int i = 0; i < 5; i++) {
+        printf("%c", *ptr++);
+    }
+}
+//Similarly to the previous one, pointer arithmetic and work of ++ operator
+//answer is estio
