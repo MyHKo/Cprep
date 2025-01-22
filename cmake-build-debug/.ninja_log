@@ -1,8 +1,8 @@
 # ninja log v6
-19	460	7591872930428732	CMakeFiles/untitled.dir/main.cpp.obj	2c0968d8dad694f0
+24	462	7591875078552448	CMakeFiles/untitled.dir/main.cpp.obj	2c0968d8dad694f0
 23	92	7591647863805034	CMakeFiles/untitled.dir/arithmetics/arithmetics3.cpp.obj	6bcd70123d3bd641
-24	290	7591875077699861	build.ninja	9b6c6f2c722eced1
-461	555	7591872934845554	untitled.exe	1c6a2ed26ea3e3d
+16	275	7592798967204662	build.ninja	9b6c6f2c722eced1
+462	552	7591875082929212	untitled.exe	e1846b964710cc5f
 26	96	7589844362653665	CMakeFiles/untitled.dir/pointers/task2.cpp.obj	f03303a7632324e7
 24	90	7589853203359479	CMakeFiles/untitled.dir/pointers/task1.cpp.obj	9e2a4698f9995e22
 29	96	7589859110413552	CMakeFiles/untitled.dir/arithmetics/arithmetics1.cpp.obj	e6233d225dbb663e
@@ -12,8 +12,7 @@
 45	137	7591869086579133	CMakeFiles/untitled.dir/pointers/pointers3.cpp.obj	9dd0e14a2f2b0fb9
 30	99	7591872790029962	CMakeFiles/untitled.dir/arithmetics/arithmetics_tasks.cpp.obj	d7643fc69d7ef74e
 4	68	7591648296876026	CMakeFiles/untitled.dir/arithmetics/arithmetics4.cpp.obj	be0d229169a75a51
-53	185	7591869086657674	CMakeFiles/untitled.dir/pointers/pointers_tasks.cpp.obj	f637577972dc5831
-16	275	7591875077699861	build.ninja	9b6c6f2c722eced1
 28	101	7591875078586446	CMakeFiles/untitled.dir/pointers/pointers_tasks.cpp.obj	f637577972dc5831
-24	462	7591875078552448	CMakeFiles/untitled.dir/main.cpp.obj	2c0968d8dad694f0
-462	552	7591875082929212	untitled.exe	e1846b964710cc5f
+25	138	7592801035139527	CMakeFiles/untitled.dir/pointers/pointers_tasks.cpp.obj	f637577972dc5831
+20	614	7592801035095048	CMakeFiles/untitled.dir/main.cpp.obj	2c0968d8dad694f0
+614	900	7592801041032886	untitled.exe	e1846b964710cc5f

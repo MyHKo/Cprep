@@ -55,3 +55,18 @@ void pointers4() {
 }
 //Similarly to the previous one, pointer arithmetic and work of ++ operator
 //answer is estio
+
+void pointers5() {
+    char *ptr, str[50] = "PointerArithmeticTask";
+    int i;
+    ptr = str;
+
+    ptr += 7;
+
+    for(i = 0; i < 5; i++) {
+        printf("%c", *(ptr + i));
+    }
+    printf("\n");
+}
+//The task is about pointer displaying different values based on the i
+//Answer us Arith

@@ -5,7 +5,7 @@
 
 int main() {
 
-    pointers4();
+    pointers5();
 
     return 0;
 }
