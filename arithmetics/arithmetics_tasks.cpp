@@ -65,3 +65,16 @@ void arithmetics6() {
 //Task check the understanding of a key word break
 //Answers is 1 4
 
+void arithmetics7() {
+    int i=1, j= i + 2 * i;
+    switch (j) {
+        default: j = 0;
+        case 1: j++; break;
+        case 2: j--; break;
+        case 0: j++; break;
+    }
+    printf("%d\n", j);
+}
+//A clever one. It illustrates the need of placing break statement after each case of the switch
+//Even after the default key word
+//Answer is 1

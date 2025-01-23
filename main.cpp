@@ -5,7 +5,7 @@
 
 int main() {
 
-    pointers5();
+    arithmetics7();
 
     return 0;
 }
