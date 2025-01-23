@@ -8,5 +8,6 @@ void arithmetics4();
 void arithmetics5();
 void arithmetics6();
 void arithmetics7();
+void arithmetics8();
 
 #endif

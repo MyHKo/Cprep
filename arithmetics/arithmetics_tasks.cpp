@@ -78,3 +78,17 @@ void arithmetics7() {
 //A clever one. It illustrates the need of placing break statement after each case of the switch
 //Even after the default key word
 //Answer is 1
+
+void arithmetics8() {
+    int tab[] = {1, 2, 3, 4};
+    int length = 4;
+    int m = 0;
+
+    for(int i=0; i<length; i++)
+        if (tab[i]<m)
+            m = tab[i];
+
+    printf("%d\n", m);
+}
+//Task checks understanding of assignment and comparison operators
+//The answer is 0
