@@ -13,5 +13,7 @@ void arithmetics9();
 void arithmetics10();
 void arithmetics11();
 void arithmetics12();
+void arithmetics13();
+void arithmetics14();
 
 #endif

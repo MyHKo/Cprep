@@ -25,3 +25,22 @@ void arithmetics12() {
 }
 //The task checks understanding of bitwise operators and their precedence
 //Answer: 11
+
+void arithmetics13() {
+    int a = 5, b = 10, c = 0;
+    int result = a > b ? b : c = a + b;
+    printf("Result: %d\n", result);
+}
+//The task check the understanding of the ? operator
+//It acts just like if() statement, but returns the value
+//In this case c is written to the result
+//Answer: 15
+
+void arithmetics14() {
+    int x = 1, y = 0, z = -1;
+    int result = x || y && z;
+    printf("Result: %d\n", result);
+}
+//The task check the understanding of the precedence of logical operators
+//&& comes before ||
+//Answer: 1
