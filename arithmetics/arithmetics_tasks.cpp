@@ -92,3 +92,13 @@ void arithmetics8() {
 }
 //Task checks understanding of assignment and comparison operators
 //The answer is 0
+
+void arithmetics9() {
+    int a = 5, b = 10, c = 15;
+    int result = a + b > c && c - b < a;
+    printf("Result: %d\n", result);
+}
+//The task my be confusing at first, since the && operator has
+//higher precedence than all other, but in this case it would be
+//executed at the end
+//Answer: 0
