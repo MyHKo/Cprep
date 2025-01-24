@@ -44,3 +44,21 @@ void arithmetics14() {
 //The task check the understanding of the precedence of logical operators
 //&& comes before ||
 //Answer: 1
+
+void arithmetics15() {
+    int a = 6, b = 4;
+    a += b *= a / b + 2;
+    printf("Result: %d\n", a);
+}
+//The task check understanding of the += and *= operators
+//They do return a value after an assignment
+//Answer: 18
+
+void arithmetics16() {
+    int a = 2, b = 3, c = 4;
+    int result = a + b * c / b - (c - a);
+    printf("Result: %d\n", result);
+}
+//The task check understanding of the precedence of / and * operators
+//* comes before /
+//Answer: 4
